@@ -1,4 +1,4 @@
-name: Build
+name: Phigros
 on:
   workflow_dispatch:
       inputs:
